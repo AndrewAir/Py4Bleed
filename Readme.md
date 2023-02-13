@@ -11,7 +11,7 @@ Otherwise he will not destoy his phone and stay in Ukraine till summer.
 - [ ] Dualingo
 - [ ] Do Touch Typing
 - [ ] English Lesson 7 Max notes
-- [ ] Watch this [NeetCode Python for Cdoing Interview](./res/videos/NeetCode-PythonForInterview[0K_eZGS5NsU].mp4)
+- [ ] Watch this [NeetCode Python for Cdoing Interview](./res/videos/NeetCode-PythonForInterview.mp4)
 - [ ] Type questions
 - [ ] Type notes
 - [ ] Redo what he does on video without looking
